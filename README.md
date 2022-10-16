@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hsnsl
-- 👀 I’m interested in Web Development , Apps Development , Games Development
-- 🌱 I’m currently learning Laravel,Css
-- 💞️ I’m looking to collaborate on Educational Application
+- 👀 I’m interested in  Apps Development , Competitive programming
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me : hasan.ismail.saleh@gmail.com
 
 <!---
